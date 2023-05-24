@@ -1,0 +1,23 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "handling third party library",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "demo",
+    "thirdparty",
+    "fetch",
+    "library"
+  ],
+  "author": "Pratiksha Godbole",
+  "license": "ISC",
+  "dependencies": {
+    "axois": "^0.0.1-security",
+    "bootstrap": "^5.2.3"
+  }
+}
